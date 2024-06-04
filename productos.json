@@ -1,0 +1,150 @@
+[
+    {
+        "id": "1",
+        "nombre": "Pamela Inma",
+        "imagen": "imagenes/pamela1.jpg",
+        "precio": "8.95€"
+    },
+    {
+        "id": "2",
+        "nombre": "Pamela Fugaz",
+        "imagen": "imagenes/pamela2.jpg",
+        "precio": "8.95€"
+    },
+    {
+        "id": "3",
+        "nombre": "Pamela Glam",
+        "imagen": "imagenes/pamela3.jpg",
+        "precio": "14.95€"
+    },
+    {
+        "id": "4",
+        "nombre": "Pamela Nebulosa",
+        "imagen": "imagenes/pamela4.jpg",
+        "precio": "17.95€"
+    },
+    {
+        "id": "5",
+        "nombre": "Pamela Chic",
+        "imagen": "imagenes/pamela5.jpg",
+        "precio": "11.95€"
+    },
+    {
+        "id": "6",
+        "nombre": "Pamela Mónaco",
+        "imagen": "imagenes/pamela6.jpg",
+        "precio": "13.95€"
+    },
+    {
+        "id": "7",
+        "nombre": "Pamela Fruta",
+        "imagen": "imagenes/pamela7.jpg",
+        "precio": "9.95€"
+    },
+    {
+        "id": "8",
+        "nombre": "Pamela Bosque",
+        "imagen": "imagenes/pamela8.jpg",
+        "precio": "14.95€"
+    },
+
+    {
+        "id": "9",
+        "nombre": "Tocado Inma",
+        "imagen": "imagenes/pamela1.jpg",
+        "precio": "8.95€"
+    },
+    {
+        "id": "10",
+        "nombre": "Tocado Fugaz",
+        "imagen": "imagenes/pamela2.jpg",
+        "precio": "8.95€"
+    },
+    {
+        "id": "11",
+        "nombre": "Tocado Glam",
+        "imagen": "imagenes/pamela3.jpg",
+        "precio": "14.95€"
+    },
+    {
+        "id": "12",
+        "nombre": "Tocado Nebulosa",
+        "imagen": "imagenes/pamela4.jpg",
+        "precio": "17.95€"
+    },
+    {
+        
+        "id": "13",
+        "nombre": "Tocado Chic",
+        "imagen": "imagenes/pamela5.jpg",
+        "precio": "11.95€"
+    },
+    {
+        "id": "14",
+        "nombre": "Tocado Mónaco",
+        "imagen": "imagenes/pamela6.jpg",
+        "precio": "13.95€"
+    },
+    {
+        "id": "15",
+        "nombre": "Tocado Fruta",
+        "imagen": "imagenes/pamela7.jpg",
+        "precio": "9.95€"
+    },
+    {
+        "id": "16",
+        "nombre": "Tocado Bosque",
+        "imagen": "imagenes/pamela8.jpg",
+        "precio": "14.95€"
+    },
+
+    {
+        "id": "17",
+        "nombre": "Diadema Inma",
+        "imagen": "imagenes/pamela1.jpg",
+        "precio": "8.95€"
+    },
+    {
+        "id": "18",
+        "nombre": "Diadema Fugaz",
+        "imagen": "imagenes/pamela2.jpg",
+        "precio": "8.95€"
+    },
+    {
+        "id": "19",
+        "nombre": "Diadema Glam",
+        "imagen": "imagenes/pamela3.jpg",
+        "precio": "14.95€"
+    },
+    {
+        "id": "20",
+        "nombre": "Diadema Nebulosa",
+        "imagen": "imagenes/pamela4.jpg",
+        "precio": "17.95€"
+    },
+    {
+        "id": "21",
+        "nombre": "Diadema Chic",
+        "imagen": "imagenes/pamela5.jpg",
+        "precio": "11.95€"
+    },
+    {
+        "id": "22",
+        "nombre": "Diadema Mónaco",
+        "imagen": "imagenes/pamela6.jpg",
+        "precio": "13.95€"
+    },
+    {
+        "id": "23",
+        "nombre": "Diadema Fruta",
+        "imagen": "imagenes/pamela7.jpg",
+        "precio": "9.95€"
+    },
+    {
+        "id": "24",
+        "nombre": "Diadema Bosque",
+        "imagen": "imagenes/pamela8.jpg",
+        "precio": "14.95€"
+    }
+    
+]

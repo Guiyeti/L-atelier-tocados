@@ -1,0 +1,47 @@
+/* Estilos base para los resultados de búsqueda */
+#resultados {
+    padding: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: flex-start;
+}
+
+/* Estilos para cada producto individual en los resultados de búsqueda */
+.producto {
+    width: 240px;
+    margin: 15px;
+    text-align: center;
+    border: 1px solid #ccc;
+    padding: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.producto img {
+    width: 200px;  /* Ajusta el tamaño según sea necesario */
+    height: 200px; /* Ajusta el tamaño según sea necesario */
+    object-fit: cover; /* Asegura que la imagen se recorte para llenar el área dada */
+    margin-bottom: 10px;
+}
+
+.producto p {
+    margin: 5px 0;
+}
+
+.producto button {
+    background-color: #006400;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 14px;
+    margin-top: 10px;
+}
+
+.producto button:hover {
+    background-color: #004d00;
+}
+
+
+
